@@ -1,1 +1,3 @@
 print("mwamwa")
+
+print("boom")
